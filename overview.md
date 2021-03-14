@@ -25,5 +25,5 @@
 | Installation | jx boot | jx boot + helm chart via argo
 | Updates      | jx boot | helm chart via argo
 
-
-https://foxsportsau.atlassian.net/wiki/spaces/DEV/pages/1556807793/Overview+and+Setup
+References:
+* [Overview and Setup](https://foxsportsau.atlassian.net/wiki/spaces/DEV/pages/1556807793/Overview+and+Setup)
